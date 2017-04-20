@@ -1,4 +1,7 @@
-# test coverage for  [electron-drag (v1.2.0)](https://github.com/kapetan/electron-drag)  [![npm package](https://img.shields.io/npm/v/npmtest-electron-drag.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-electron-drag) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-electron-drag.svg)](https://travis-ci.org/npmtest/node-npmtest-electron-drag)
+# npmtest-electron-drag
+
+#### basic test coverage for  [electron-drag (v1.2.0)](https://github.com/kapetan/electron-drag)  [![npm package](https://img.shields.io/npm/v/npmtest-electron-drag.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-electron-drag) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-electron-drag.svg)](https://travis-ci.org/npmtest/node-npmtest-electron-drag)
+
 #### Window dragging for electron applications
 
 [![NPM](https://nodei.co/npm/electron-drag.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/electron-drag)
